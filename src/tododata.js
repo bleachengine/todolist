@@ -17,11 +17,11 @@ const items = [
     status:"pending"
   },
   { 
-    title:"Edit this todo using pencil button and save it",
+    title:"Edit todo using pencil or save it",
     status:"pending"
   },
   { 
-    title:"Happy todoing",
+    title:"Happy todoiing",
     status:"pending"
   }
 ];
