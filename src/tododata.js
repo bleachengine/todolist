@@ -17,7 +17,7 @@ const items = [
     status:"pending"
   },
   { 
-    title:"Edit todo using pencil or save it",
+    title:"Edit todo using pencil & save it",
     status:"pending"
   },
   { 
