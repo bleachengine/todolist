@@ -2,7 +2,7 @@
   "name": "myapp",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/bleachengine/todolist",
+  "homepage": "https://bleachengine.github.io/todolist",
   "type": "module",
   "scripts": {
     "dev": "vite",
